@@ -19,4 +19,4 @@ Mobilna aplikacja stworzona w **React Native**, mająca na celu wsparcie użytko
 
 ### 1. Ekran Główny (`Dzisiaj`)
 Główny punkt wejścia aplikacji służący do codziennego wprowadzania danych.
-![Ekran Główny](assets/screenshots/screen_1.jpeg)
+<img src="assets/screenshots/screen_1.jpeg" width="300" alt="Ekran Główny" />
