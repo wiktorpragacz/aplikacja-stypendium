@@ -19,4 +19,8 @@ Mobilna aplikacja stworzona w **React Native**, mająca na celu wsparcie użytko
 
 ### 1. Ekran Główny (`Dzisiaj`)
 Główny punkt wejścia aplikacji służący do codziennego wprowadzania danych.
+* **Rejestracja Nastroju:** Skala 4-stopniowa (Słabo, Średnio, Dobrze, Świetnie). Wybór podświetla właściwy moduł i natychmiastowo aktualizuje stan aplikacji.
+* **Notatka / Myśl Dnia:** Pole tekstowe umożliwiające zapisanie refleksji z danego dnia.
+* **Licznik Nawodnienia:** Moduł do monitorowania spożycia wody z wizualnym paskiem postępu
 <img src="assets/screenshots/screen_1.jpeg" width="300" alt="Ekran Główny" />
+<img src="assets/screenshots/screen_2.jpeg" width="300" alt="Ekran Główny" />
