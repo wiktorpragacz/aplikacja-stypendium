@@ -27,3 +27,10 @@ Notatka / Myśl Dnia: Pole tekstowe umożliwiające zapisanie refleksji z danego
 <img src="assets/screenshots/screen_2.jpeg" width="300" alt="Ekran Główny" />
 Licznik Nawodnienia: Moduł do monitorowania spożycia wody z wizualnym paskiem postępu
 <img src="assets/screenshots/screen_3.jpeg" width="300" alt="Ekran Główny" />
+
+
+### 2. Ekran Edukacji i Inspiracji (`Odkrywaj`)
+Baza wiedzy wspierająca użytkownika w budowaniu zdrowych nawyków i higienie psychicznej.
+
+<img src="assets/screenshots/screen_4.jpeg" width="300" alt="Odkrywaj" />
+<img src="assets/screenshots/screen_5.jpeg" width="300" alt="Odkrywaj" />
