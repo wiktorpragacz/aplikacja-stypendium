@@ -39,7 +39,7 @@ Baza wiedzy wspierająca użytkownika w budowaniu zdrowych nawyków i higienie p
 ### 3. Ekran Analizy i Historii (`Historia`)
 Moduł służący do weryfikacji postępów, analizy samopoczucia i przeglądu historycznych wpisów.
 
-<img src="assets/screenshots/screen_6.jpeg" width="300" alt="Historia" />
+<img src="assets/screenshots/screen_6.jpg" width="300" alt="Historia" />
 
 
 
