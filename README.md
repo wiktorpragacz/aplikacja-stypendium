@@ -15,3 +15,8 @@ Mobilna aplikacja stworzona w **React Native**, mająca na celu wsparcie użytko
 - ** Haptic Feedback:** Reakcje wibracyjne na akcje użytkownika (dodanie nawyku, wypicie wody), co znacznie podnosi jakość UX.
 
 ---
+
+
+### 1. Ekran Główny (`Dzisiaj`)
+Główny punkt wejścia aplikacji służący do codziennego wprowadzania danych.
+![Ekran Główny](assets/screen_01.jpg)
