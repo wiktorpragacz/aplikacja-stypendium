@@ -34,3 +34,14 @@ Baza wiedzy wspierająca użytkownika w budowaniu zdrowych nawyków i higienie p
 
 <img src="assets/screenshots/screen_4.jpeg" width="300" alt="Odkrywaj" />
 <img src="assets/screenshots/screen_5.jpeg" width="300" alt="Odkrywaj" />
+
+
+### 3. Ekran Analizy i Historii (`Historia`)
+Moduł służący do weryfikacji postępów, analizy samopoczucia i przeglądu historycznych wpisów.
+
+<img src="assets/screenshots/screen_6.jpeg" width="300" alt="Historia" />
+
+
+
+
+
